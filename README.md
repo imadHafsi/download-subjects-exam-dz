@@ -21,7 +21,7 @@ This project automates the process of scraping web pages and downloading files u
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/imadHafsi/download-subjects-exam-dz]
+    git clone https://github.com/imadHafsi/download-subjects-exam-dz
     cd your-repo-name
     ```
 
