@@ -21,7 +21,7 @@ This project automates the process of scraping web pages and downloading files u
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone [https://github.com/imadHafsi/download-subjects-exam-dz]
     cd your-repo-name
     ```
 
@@ -44,7 +44,7 @@ This project automates the process of scraping web pages and downloading files u
 
 2. **Run the script:**
     ```bash
-    python your_script_name.py
+    python exam-dz.py.py
     ```
 
 3. **The script will:**
